@@ -18,7 +18,7 @@ const Inicio = () => {
           <div className="text-center xl:text-left order-2 xl:order-none">
             <span className="text-xl">Frontend Developer</span>
             <h1 className="h1">
-              Hello I'm <br />{" "}
+              Hola soy <br />
               <span className="text-accent">Jesus Torrealba</span>
             </h1>
             <br />
