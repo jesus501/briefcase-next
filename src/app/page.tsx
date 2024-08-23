@@ -27,6 +27,7 @@ const Inicio = () => {
                 variant="outline"
                 size="lg"
                 className="uppercase flex items-center gap-2"
+                onClick={() => window.open('/assets/CV.pdf', '_blank')}
               >
                 <span>Descargar CV</span>
 
