@@ -34,8 +34,8 @@ const projects = [
       { name: "TypeScript" },
     ],
     image: "/assets/planificador.png",
-    live: "https://www.netflix.com/tudum/movies-shows-netflix-2024",
-    github: "/",
+    live: "https://expense-planner-react-typescript.vercel.app/",
+    github: "https://github.com/jesus501/expense-planner-react-typescript",
   },
   {
     num: "02",
@@ -45,8 +45,8 @@ const projects = [
       "Permite a los usuarios explorar una variedad de guitarras, agregar productos al carrito, y gestionar sus compras de manera eficiente. La aplicación presenta un diseño responsivo, facilitado por Bootstrap, y asegura un manejo robusto de tipos y estados gracias a TypeScript, proporcionando una experiencia de usuario fluida y libre de errores.",
     stack: [{ name: "React" }, { name: "BootStrap" }, { name: "TypeScript" }],
     image: "/assets/guitar.png",
-    live: "https://www.netflix.com/tudum/movies-shows-netflix-2024",
-    github: "/",
+    live: "https://shop-guitar-react-typescript.vercel.app/",
+    github: "https://github.com/jesus501/shop-guitar-react-typescript",
   },
 ];
 
