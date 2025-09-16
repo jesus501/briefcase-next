@@ -20,7 +20,7 @@ const about = {
     },
     {
       fieldName: "Contacto",
-      fieldValue: "+(58) 424 3786509",
+      fieldValue: "+(58) 412 9107391",
     },
   ],
 };
